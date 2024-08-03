@@ -1,51 +1,15 @@
-## Hi there 👋
+# ¡Hola, soy Luis David Cruz Otiniano! 👋
 
-<!--
-**luiscruzdv/luiscruzdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy un desarrollador full-stack con experiencia en **Laravel**, **React**, y otras tecnologías. Me apasiona investigar y leer documentación sobre nuevas tecnologías.
 
-Here are some ideas to get you started:
+## Habilidades
+- **Lenguajes de Programación:** PHP, JavaScript, SQL, HTML, CSS
+- **Frameworks y Librerías:** Laravel, React, Tailwind CSS, Inertia.js
+- **Bases de Datos:** MySQL, MongoDB
+- **Herramientas y Plataformas:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## About Me
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## Projects
-
-Here are some of my projects:
-
-1. **Project Name** - Description of the project.
-2. **Project Name** - Description of the project.
-3. **Project Name** - Description of the project.
-
-## Skills
-
-- Skill 1
-- Skill 2
-- Skill 3
-
-## Contact
-
-- Email
-- LinkedIn
-- Twitter
-
-## Fun Fact
-
-- Share something interesting or fun about yourself!
+## Educación
+- **Bachiller en Ciencias de la Computación**
+  - Universidad Nacional de Trujillo
+  - Año de graduación: 2024
