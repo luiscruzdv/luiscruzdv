@@ -1,15 +1,23 @@
-# ¡Hola, soy Luis David Cruz Otiniano! 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-## Sobre mí
-Soy un desarrollador full-stack con experiencia en **Laravel**, **React**, y otras tecnologías. Me apasiona investigar y leer documentación sobre nuevas tecnologías.
+###
 
-## Habilidades
-- **Lenguajes de Programación:** PHP, JavaScript, SQL, HTML, CSS
-- **Frameworks y Librerías:** Laravel, React, Tailwind CSS, Inertia.js
-- **Bases de Datos:** MySQL, MongoDB
-- **Herramientas y Plataformas:** Git, GitHub
+<p align="left">My name is Luis Cruz, and I'm a full-stack developer from Peru.</p>
 
-## Educación
-- **Bachiller en Ciencias de la Computación**
-  - Universidad Nacional de Trujillo
-  - Año de graduación: 2024
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+</div>
